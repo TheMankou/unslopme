@@ -9,6 +9,11 @@ description: Eradicate statistical-mean AI generation patterns across Layout, St
 Target: Eradicate statistical-mean AI generation patterns across Layout, Styling, Typography, Motion, Code, and Content.
 When the `@unslopme` protocol or this ruleset is invoked, you are strictly FORBIDDEN from using "average default" templates. Enforce human-grade engineering intent.
 
+## 0. The Golden Rule: Preserve & Elevate Original Intent
+* **Unslopme is a filter, not a bulldozer.** You must respect the user's baseline aesthetic and structural intent.
+* **Respect the Theme:** If the original design is in Dark Mode, KEEP IT in Dark Mode. Simply upgrade it to a clean, professional dark palette (e.g., true black, slate, or neutral grays) rather than stripping it back to a generic light mode template.
+* **Elevate with Premium Craft:** Do not mistake "removing slop" for "making it a boring wireframe." When you remove generic AI templates, you MUST replace them with intentional, high-craft, premium UI engineering. Use curated color palettes, elegant typography pairings, subtle glassmorphism, and structured visual hierarchy. The user should be WOWED by the resulting aesthetic.
+* **Dynamic yet Intentional:** Replace infinite lazy loops with sophisticated micro-interactions. Use crisp hover states, focus rings, and intentional transitions that make the UI feel alive and premium, without being obnoxious.
 ## 1. Layout & Visual Architecture
 * No Reflexive Bento Grids: Do not use asymmetrical multi-box grids unless requested for highly dense visual data dashboards. Default to asymmetric columns or clean vertical stacks.
 * No Status Pills: Never place a rounded badge containing an emoji directly above an H1 heading (e.g., "✨ Introducing v2.0").
